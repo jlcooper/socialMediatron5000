@@ -1,0 +1,54 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+use lib '/usr/local/projects/socialMediatron5000/lib';
+use lib '/usr/local/projects/socialMediatron5000/blib';
+
+use Settings qw(
+    $DATABASE_HOST $DATABASE_PORT $DATABASE_NAME
+);
+
+use Database;
+use Controller;
+use Configuration;
+use LupinAgent;
+use TweetLog;
+use TwitterAgent;
+use FigshareAgent;
+
+use Readonly;
+
+my $database = Database->new({
+    databaseHost => $DATABASE_HOST,
+    databasePort => $DATABASE_PORT,
+    databaseName => $DATABASE_NAME,
+});
+
+my $controller=Controller->new({
+    database => $database,
+});
+
+
+#
+# Call all our harvesting agents first
+#
+
+my $harvestingAgents = $controller->getHarvestingAgents();
+
+foreach my $harvestingAgent (@{$harvestingAgents}) {
+    $harvestingAgent->harvest();
+}
+
+#
+# Call all our publishing agents next
+#
+
+my $publishingAgents = $controller->getPublishingAgents();
+
+my $firstTimeRound = 1;
+
+foreach my $publishingAgent (@{$publishingAgents}) {
+    $publishingAgent->publish();
+}

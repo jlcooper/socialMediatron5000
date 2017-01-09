@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2016-02-04T10:20:55Z</responseDate>
+    <request verb="ListRecords" metadataPrefix="oai_dc" from="2016-01-03 00:00:00">http://dspace.lboro.ac.uk/dspace-oai/request</request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>oai:dspace.lboro.ac.uk:2134/1238</identifier>
+                <datestamp>2016-01-22T00:05:34Z</datestamp>
+                <setSpec>com_2134_92</setSpec>
+                <setSpec>com_2134_80</setSpec>
+                <setSpec>col_2134_1134</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Absolute negative conductivity and spontaneous current generation in semiconductor superlattices with hot electrons</dc:title>
+<dc:creator>Cannon, E.H.</dc:creator>
+<dc:creator>Kusmartsev, F.V.</dc:creator>
+<dc:creator>Alekseev, K.N.</dc:creator>
+<dc:creator>Campbell, D.K.</dc:creator>
+<dc:subject>mesoscopic systems</dc:subject>
+<dc:subject>quantum hall effect</dc:subject>
+<dc:description>This is a pre-print. It is also available at: http://arxiv.org/abs/cond-mat/9910042.</dc:description>
+<dc:description>We study electron transport through a semiconductor superlattice subject to an electric field parallel to and a magnetic field perpendicular to the growth axis. Using a single miniband, semiclassical balance equation model with both elastic and inelastic scattering, we find that (1) the current-voltage characteristic becomes multistable in a large magnetic field; and (2) "hot" electrons display novel features in their current-voltage characteristics, including absolute negative conductivity (ANC) and, for sufficiently strong magnetic fields, a spontaneous dc current at zero bias. We discuss possible experimental situations providing the necessary hot electrons to observe the predicted ANC and spontaneous dc current generation.</dc:description>
+<dc:date>2006-04-12T15:39:53Z</dc:date>
+<dc:date>2006-04-12T15:39:53Z</dc:date>
+<dc:date>1999</dc:date>
+<dc:type>Preprint</dc:type>
+<dc:identifier>https://dspace.lboro.ac.uk/2134/1238</dc:identifier>
+<dc:language>en</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace.lboro.ac.uk:2134/1310</identifier>
+                <datestamp>2016-01-12T09:02:11Z</datestamp>
+                <setSpec>com_2134_92</setSpec>
+                <setSpec>com_2134_80</setSpec>
+                <setSpec>col_2134_93</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Coherence of the lattice polarization in large-polaron motion</dc:title>
+<dc:creator>Myasnikov, E.N.</dc:creator>
+<dc:creator>Myasnikova, A.E.</dc:creator>
+<dc:creator>Kusmartsev, F.V.</dc:creator>
+<dc:description>This article was published in the journal, Physical Review B [?? American Physical Society].  It is also available at: http://link.aps.org/doi/10.1103/PhysRevB.72.224303.</dc:description>
+<dc:description>Main problems of the large polaron theory are considered. We demonstrate that the problem of searching the ground stationary state of a system of coupled fields with translation-invariant Hamiltonian can have a solution of the form f(r???vt), v???0, i.e., the solution with the spontaneously broken translational symmetry. Such a state can be a ground state of a large polaron in case of strong electron-phonon coupling when the spontaneous break of the translational symmetry results from the phonon vacuum deformation by the electric field of the charge carrier. The correctness of the classical representation of the polarization field in the theory of a strongly coupled large polaron is proved on the base of the theory of the quantum-coherent states of the phonon field. The use of this representation has enabled us to show that extremely high losses of the electron energy in dielectric parts of cold cathodes occurring when the carrier velocity is lower than the threshold for the single-phonon radiation are due to coherent phonon radiation by polarons like Cherenkov effect. It is this radiation that results in the predicted Thornber and Feynman dependence of the carrier steady-state velocity on the applied electric field strength. The coherent phonon radiation generated by polaron current can be detected in experiments on the neutrons scattering. The primary directions of the neutrons scattering depend on the polarons steady-state velocity and, hence, on the applied field strength. The coherent phonon radiation stemming from supersonic thermal motion of polarons causes a giant increase of the resistance in a corresponding temperature interval.</dc:description>
+<dc:date>2006-04-27T13:06:15Z</dc:date>
+<dc:date>2006-04-27T13:06:15Z</dc:date>
+<dc:date>2005</dc:date>
+<dc:type>Article</dc:type>
+<dc:identifier>MYASNIKOV, E.N., MYASNIKOVA, A.E. and KUSMARTSEV, F.V., 2005. Coherence of the lattice polarization in large-polaron motion. Physical Review B, 72(22), 224303</dc:identifier>
+<dc:identifier>0163-1829</dc:identifier>
+<dc:identifier>https://dspace.lboro.ac.uk/2134/1310</dc:identifier>
+<dc:language>en</dc:language>
+<dc:publisher>?? American Physical Society</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace.lboro.ac.uk:2134/2122</identifier>
+                <datestamp>2016-01-23T00:05:39Z</datestamp>
+                <setSpec>com_2134_92</setSpec>
+                <setSpec>com_2134_80</setSpec>
+                <setSpec>col_2134_1134</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buckyball quantum computer: realization of a quantum gate</dc:title>
+<dc:creator>Garelli, M.S.</dc:creator>
+<dc:creator>Kusmartsev, F.V.</dc:creator>
+<dc:description>This is a pre-print.  It is also available at: http://arxiv.org/abs/quant-ph/0501076.</dc:description>
+<dc:description>We have studied a system composed by two endohedral fullerene molecules. We have found that&#13;
+this system can be used as good candidate for the realization of Quantum Gates. Each of these molecules&#13;
+encapsules an atom carrying a spin, therefore they interact through the spin dipole interaction. We show&#13;
+that a phase gate can be realized if we apply static and time dependent magnetic fields on each encased&#13;
+spin. We have evaluated the operational time of a pi-phase gate, which is of the order of ns. We made a&#13;
+comparison between the theoretical estimation of the gate time and the experimental decoherence time for&#13;
+each spin. The comparison shows that the spin relaxation time is much larger than the pi-gate operational&#13;
+time. Therefore, this indicates that, during the decoherence time, it is possible to perform some thousands&#13;
+of quantum computational operations. Moreover, through the study of concurrence, we get very good&#13;
+results for the entanglement degree of the two-qubit system. This finding opens a new avenue for the&#13;
+realization of Quantum Computers.</dc:description>
+<dc:date>2006-06-05T12:01:44Z</dc:date>
+<dc:date>2006-06-05T12:01:44Z</dc:date>
+<dc:date>2005</dc:date>
+<dc:type>Preprint</dc:type>
+<dc:identifier>https://dspace.lboro.ac.uk/2134/2122</dc:identifier>
+<dc:language>en</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace.lboro.ac.uk:2134/2309</identifier>
+                <datestamp>2016-01-16T00:07:54Z</datestamp>
+                <setSpec>com_2134_66</setSpec>
+                <setSpec>com_2134_65</setSpec>
+                <setSpec>col_2134_73</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Genetic algorithm optimisation of a firewater deluge system</dc:title>
+<dc:creator>Andrews, J.D.</dc:creator>
+<dc:creator>Bartlett, L.M.</dc:creator>
+<dc:subject>Optimisation</dc:subject>
+<dc:subject>Genetic algorithms</dc:subject>
+<dc:subject>Safety systems</dc:subject>
+<dc:subject>Design</dc:subject>
+<dc:description>This article was published in the journal, Quality and Reliability Engineering International [?? John Wiley &amp; Sons] and is also available at http://www3.interscience.wiley.com/cgi-bin/jhome/3680?CRETRY=1&amp;SRETRY=0</dc:description>
+<dc:description>Safety systems are designed to operate when certain conditions occur and act to prevent their development into a hazardous situation. Failure of a safety system for a potentially hazardous industrial system or process may have catastrophic consequences, possibly injuring members of the work force or public and occasionally resulting in loss of life. The purpose of this paper is to describe a design optimisation scheme using genetic algorithms applied to a firewater deluge system, which uses available resources to the best possible advantage to obtain an optimal safety system design.</dc:description>
+<dc:date>2006-08-18T12:03:06Z</dc:date>
+<dc:date>2006-08-18T12:03:06Z</dc:date>
+<dc:date>2003</dc:date>
+<dc:type>Article</dc:type>
+<dc:identifier>ANDREWS, J.D. and BARTLETT, L.M. 2003. Genetic algorithm optimisation of a firewater deluge system. Quality and Reliability Engineering International, 19 (1), pp. 39-52</dc:identifier>
+<dc:identifier>0748-8017</dc:identifier>
+<dc:identifier>https://dspace.lboro.ac.uk/2134/2309</dc:identifier>
+<dc:language>en</dc:language>
+<dc:publisher>?? John Wiley &amp; Sons</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace.lboro.ac.uk:2134/2399</identifier>
+                <datestamp>2016-01-16T00:07:52Z</datestamp>
+                <setSpec>com_2134_66</setSpec>
+                <setSpec>com_2134_65</setSpec>
+                <setSpec>col_2134_73</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Using statistically designed experiments for safety system optimization</dc:title>
+<dc:creator>Bartlett, L.M.</dc:creator>
+<dc:creator>Andrews, J.D.</dc:creator>
+<dc:subject>Statistically designed experiments</dc:subject>
+<dc:subject>Fault tree analysis</dc:subject>
+<dc:subject>Binary decision systems</dc:subject>
+<dc:subject>Optimisation</dc:subject>
+<dc:subject>Safety systems</dc:subject>
+<dc:description>This article was published in the journal, Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering [?? Professional Engineering Publishing] and is also available at: http://pep.metapress.com/content/119780</dc:description>
+<dc:description>This paper describes the method of statistically designed experiments (SDE's), used as a&#13;
+structured method to investigate the best setting for a number of decision variables in a&#13;
+system design problem. Traditionally, in the design of safety critical systems, a trial and&#13;
+error type approach is undertaken to achieve a final system that meets the design&#13;
+objectives. This approach can be time consuming and often only an adequate design is&#13;
+found rather than the optimal design for the available resources. Optimal use of&#13;
+resources should be imperative when possible lives are at risk. To demonstrate the&#13;
+practicality of this new structured approach for optimising a safety system design, a high&#13;
+integrity safety system has been used. Each design is analysed using the Binary Decision&#13;
+Diagram analysis technique to establish the system unavailability, which is penalised if&#13;
+the system constraints are exceeded. System constraints indicate the limitations on the resources which can be utilised. The SDE approach highlights good and bad settings for&#13;
+possible design variables. This knowledge can then be used by more sophisticated search&#13;
+techniques. The latter part of this paper analyses the results from the best design&#13;
+generated using the SDE, for further optimisation using localised optimisation&#13;
+approaches.</dc:description>
+<dc:date>2006-10-06T09:12:54Z</dc:date>
+<dc:date>2006-10-06T09:12:54Z</dc:date>
+<dc:date>2004</dc:date>
+<dc:type>Article</dc:type>
+<dc:identifier>BARTLETT, L.M. and ANDREWS, J.D., 2004. Using statistically designed experiments for safety system optimization. Proceedings of the Institution of Mechanical Engineers, Part E : Journal of Process Mechanical Engineering 218 (1), pp. 53-63</dc:identifier>
+<dc:identifier>0954-4089</dc:identifier>
+<dc:identifier>https://dspace.lboro.ac.uk/2134/2399</dc:identifier>
+<dc:identifier>10.1243/095440804322860645</dc:identifier>
+<dc:language>en</dc:language>
+<dc:publisher>?? IMechE / Professional Engineering Publishing</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace.lboro.ac.uk:2134/3536</identifier>
+                <datestamp>2016-01-20T00:16:48Z</datestamp>
+                <setSpec>com_2134_81</setSpec>
+                <setSpec>com_2134_80</setSpec>
+                <setSpec>col_2134_3149</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Methyl 4-ethoxy-2-methyl-2H-1,2-benzothiazine-3-carboxylate 1,1-dioxide</dc:title>
+<dc:creator>Zia-ur-Rehman, Muhammad</dc:creator>
+<dc:creator>Choudary, Jamil Anwar</dc:creator>
+<dc:creator>Elsegood, Mark R.J.</dc:creator>
+<dc:creator>Akbar, N.</dc:creator>
+<dc:creator>Siddiqui, Hamid Latif</dc:creator>
+<dc:description>This article was published in the journal, Acta Crystallographica Section E: Structure Reports Online [?? International Union of Crystallography]. It is also available at: http://journals.iucr.org/e/</dc:description>
+<dc:date>2008-08-05T14:32:15Z</dc:date>
+<dc:date>2008-08-05T14:32:15Z</dc:date>
+<dc:date>2008</dc:date>
+<dc:type>Article</dc:type>
+<dc:identifier>ZIA-UR-REHMAN, M. ... et al, 2008. Methyl 4-ethoxy-2-methyl-2H-1,2-benzothiazine-3-carboxylate 1,1-dioxide. Acta Crystallographica Section E : Structure Reports Online, E64, o1508  [doi:10.1107/S1600536808021363]</dc:identifier>
+<dc:identifier>1600-5368</dc:identifier>
+<dc:identifier>https://dspace.lboro.ac.uk/2134/3536</dc:identifier>
+<dc:language>en</dc:language>
+<dc:publisher>?? International Union of Crystallography</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <resumptionToken completeListSize="7" cursor="0">MToxMDB8Mjp8MzoyMDE2LTAxLTAzVDAwOjAwOjAwWnw0Onw1Om9haV9kYw==</resumptionToken>
+    </ListRecords>
+</OAI-PMH>

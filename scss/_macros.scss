@@ -1,0 +1,103 @@
+// Macros (OK they call them mixins, but they are macros)
+
+@mixin border-radius($radius) {
+    -webkit-border-radius: $radius;
+    -moz-border-radius: $radius;
+    -ms-border-radius: $radius;
+    -o-border-radius: $radius;
+    border-radius: $radius;
+}
+
+@mixin border-top-radius($radius) {
+    -webkit-border-top-left-radius: $radius;
+    -moz-border-top-left-radius: $radius;
+    -ms-border-top-left-radius: $radius;
+    -o-border-top-left-radius: $radius;
+    border-top-left-radius: $radius;
+    -webkit-border-top-right-radius: $radius;
+    -moz-border-top-right-radius: $radius;
+    -ms-border-top-right-radius: $radius;
+    -o-border-top-right-radius: $radius;
+    border-top-right-radius: $radius;
+}
+
+@mixin border-top-left-radius($radius) {
+    -webkit-border-top-left-radius: $radius;
+    -moz-border-top-left-radius: $radius;
+    -ms-border-top-left-radius: $radius;
+    -o-border-top-left-radius: $radius;
+    border-top-left-radius: $radius;
+}
+
+@mixin border-top-right-radius($radius) {
+    -webkit-border-top-right-radius: $radius;
+    -moz-border-top-right-radius: $radius;
+    -ms-border-top-right-radius: $radius;
+    -o-border-top-right-radius: $radius;
+    border-top-right-radius: $radius;
+}
+
+@mixin border-bottom-radius($radius) {
+    -webkit-border-bottom-left-radius: $radius;
+    -moz-border-bottom-left-radius: $radius;
+    -ms-border-bottom-left-radius: $radius;
+    -o-border-botton-left-radius: $radius;
+    border-bottom-left-radius: $radius;
+
+    -webkit-border-bottom-right-radius: $radius;
+    -moz-border-bottom-right-radius: $radius;
+    -ms-border-bottom-right-radius: $radius;
+    -o-border-bottom-right-radius: $radius;
+    border-bottom-right-radius: $radius;
+}
+
+@mixin border-bottom-left-radius($radius) {
+    -webkit-border-bottom-left-radius: $radius;
+    -moz-border-bottom-left-radius: $radius;
+    -ms-border-bottom-left-radius: $radius;
+    -o-border-botton-left-radius: $radius;
+    border-bottom-left-radius: $radius;
+}
+
+@mixin border-bottom-right-radius($radius) {
+    -webkit-border-bottom-right-radius: $radius;
+    -moz-border-bottom-right-radius: $radius;
+    -ms-border-bottom-right-radius: $radius;
+    -o-border-bottom-right-radius: $radius;
+    border-bottom-right-radius: $radius;
+}
+
+@mixin opacity($opacity) {
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=$opacity*100)";
+    filter: alpha(opacity=$opacity*100);
+    -moz-opacity: $opacity;
+    -khtml-opacity: $opacity;
+    opacity: $opacity;
+}
+
+@mixin backgroundLinearGradient($startColor,$endColor){
+    background: $startColor; /* Old browsers */
+    background: -moz-linear-gradient(top, $startColor 0%, $endColor 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,$startColor), color-stop(100%,$endColor)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, $startColor 0%,$endColor 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, $startColor 0%,$endColor 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, $startColor 0%,$endColor 100%); /* IE10+ */
+    background: linear-gradient(to bottom, $startColor 0%,$endColor 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$startColor', endColorstr='$endColor',GradientType=0 ); /* IE6-9 */
+}
+
+@mixin boxShadow($top, $left, $blur, $color) {
+    -webkit-box-shadow: $top $left $blur $color;
+    -moz-box-shadow: $top $left $blur $color;
+    -ms-box-shadow: $top $left $blur $color;
+    -o-box-shadow: $top $left $blur $color;
+    box-shadow: $top  $left $blur $color;
+}  
+
+@mixin transition($attribute, $speed, $style) {
+    -webkit-transition: $attribute $speed $style;
+    -moz-transition: $attribute $speed $style;
+    -ms-transition: $attribute $speed $style;
+    -o-transition: $attribute $speed $style;
+    transition: $attribute $speed $style;
+}

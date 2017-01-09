@@ -1,0 +1,325 @@
+@import 'macros';
+
+// Variables
+$fontFamily: "calibri","arial",sans-serif;
+$monospaceFontFamily: "Lucida Console",Monaco,monospace;
+$borderColor: #999;
+$borderWidth: 1px;
+
+$positiveBackgroundColor: #080;
+$positiveBorderColor: #070;
+$positiveColor: #fff;
+$positiveTextShadowColor: #060;
+$positiveHoverBackgroundColor: #090;
+
+$negativeBackgroundColor: #800;
+$negativeBorderColor: #700;
+$negativeColor: #fff;
+$negativeTextShadowColor: #600;
+$negativeHoverBackgroundColor: #a00;
+
+$navigationBackgroundColor: #ddf;
+$fuzzBackgroundColor: #ddf;
+$popupBackgroundColor: white;
+
+div[onclick],
+span[onclick] {
+    cursor: pointer;
+}
+
+// Set our default values for all elements
+* {
+    padding: 0;
+    margin: 0;
+    border-style: none;
+    border-color: $borderColor;
+    border-width: $borderWidth;
+    font-family: $fontFamily;
+    font-size: 12pt;
+}
+
+body {
+    min-height: 1px;
+    min-width: 1px;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-track {
+    background-color: #eaeaea;
+    border-left: 1px solid;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-left: 1px solid;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #aaa;
+}
+
+input[type=button] {
+    border-style: solid;
+    padding: 0.2em;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    border-radius: 0.5em;
+
+    &.positive {
+        background-color: $positiveBackgroundColor;
+        border:1px solid $positiveBorderColor;
+        color: $positiveColor;
+        text-shadow:0px 1px 0px $positiveTextShadowColor;
+
+        &:hover {
+            background-color: $positiveHoverBackgroundColor;
+        }
+    }
+
+    &.negative {
+        background-color: $negativeBackgroundColor;
+        border:1px solid $negativeBorderColor;
+        color: $negativeColor;
+        text-shadow:0px 1px 0px $negativeTextShadowColor;
+
+        &:hover {
+            background-color: $negativeHoverBackgroundColor;
+        }
+    }
+
+
+
+}
+
+nav {
+    background-color: $navigationBackgroundColor;
+    color: white;
+    li {
+        display: inline-block;
+        min-width: 8em;
+        padding: 0.5em;
+        border-right-style: solid;
+        text-align: center;
+        font-weight: bolder;
+
+        a,
+        a:link,
+        a:hover,
+        a:visited {
+            color: gray;
+            text-decoration: none;
+        }
+    }
+
+    &.harvesters {
+        li#mainMenuHarvesters {
+            background-color: white;
+        }
+    }
+    &.publishers {
+        li#mainMenuPublishers {
+            background-color: white;
+        }
+    }
+    &.tweets {
+        li#mainMenuTweets {
+            background-color: white;
+        }
+    }
+}
+
+#mainPage {
+
+    .addOption {
+        float: right;
+        font-size: 2em;
+        line-height: 1em;
+        background-color: $positiveBackgroundColor;
+        color: $positiveColor;
+        border-radius: 50%;
+        width: 1em;
+        height: 1em;
+        text-align : center;
+    }
+
+    table {
+        border-collapse: collapse;
+        margin-left: auto;
+        margin-right: auto;
+
+        tr:nth-child(even) {
+            background-color: #eee;
+        }
+
+        thead {
+            border-bottom-style: solid;
+        }
+
+        tfoot {
+            display: none;
+        }
+
+        tbody:empty + tfoot {
+            display: table-footer-group;
+        }
+
+        th, td {
+            padding-left: 0.2em;
+            padding-right: 0.2em;
+            border-right-style: solid;
+
+            &:first-child {
+                padding-left: 1em;
+            }
+
+            &:last-child {
+                border-right-style: none;
+                padding-right: 1em;
+            }
+
+            &.tweet {
+                width: 100%;
+            }
+
+            &.name {
+                width: 20em;
+            }
+
+            &.timestamp,
+            &.publishingAgent,
+            &.harvestingAgetn {
+                white-space: nowrap;
+            }
+
+            &.wait {
+                height: 42px;
+                min-width: 42px;
+                background-image: url('images/wait.gif');
+                background-repeat: no-repeat;
+                background-position: center; 
+            }
+
+            &.post {
+                white-space: pre-line;
+                position: relative;
+            }
+
+            &.post[data-message]:hover:after {
+                content: attr(data-message);
+                white-space: pre-line;
+                position: absolute;
+                display: block;
+                top: 25%;
+                left: 25%;
+                color: white;
+                width: 25em;
+                padding: 1em;
+                border-radius: 0.3em;
+                background-color: rgba(0.1,0.1,0.1,0.9);
+                box-shadow: 3px 3px 2px #888;
+            }
+        }
+    }
+
+    tbody {
+        tr:hover {
+            background-color: #eef;
+        }
+    }
+}
+
+#popupFuzz {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: $fuzzBackgroundColor;
+    opacity: 0.7;
+    z-index: 10;
+}
+
+#popupContent {
+    display: none;
+    position: fixed;
+    border-style: solid;
+    top: 3em;
+    left: 3em;
+    right: 3em;
+    bottom: 3em;
+    background-color: $popupBackgroundColor;
+    border-radius: 0.5em;
+    z-index: 20;
+    padding: 1em;
+
+    div#agentType {
+        font-weight: bolder;
+        border-bottom-style: solid;
+    }
+
+    div#configurationFields {
+        position: absolute;
+        top: 2.5em;
+        bottom: 2.5em;
+        left: 0.5em;
+        right: 0.5em;
+        overflow: auto;
+
+        div.configurationField {
+            padding-top: 0.3em;
+            padding-bottom: 0.3em;
+            label {
+                display: inline-block;
+                vertical-align: top;
+                width: 13em;
+            }
+
+            input {
+                border-style: solid;
+
+                &[type=text],
+                &[type=number],
+                &[type=url] {
+                    width: 20em;
+                }
+            }
+
+            textarea {
+                border-style: solid;
+                width: 30em;
+                height: 5em;
+            }
+        }
+    }
+
+    div.options {
+        position: absolute;
+        bottom: 0.5em;
+        height: 1.2em;
+        left: 1em;
+        right: 1em;
+        border-top: solid;
+        text-align: right;
+        padding: 0.2em;
+    }
+
+    div#availableAgents{
+        text-align: center;
+
+        div.agentMenu {
+            display: block;
+            margin-left: 0;
+            margin-right: 0;
+            cursor: pointer;
+            font-size: 1.8rem;
+            text-align: center;
+            margin-top: 5%;
+
+            &:hover {
+                background-color: #eee;
+            }
+        }
+    }
+}
+

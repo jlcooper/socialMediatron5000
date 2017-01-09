@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2016-02-04T10:24:27Z</responseDate>
+    <request verb="ListRecords" resumptionToken="MToxMDB8Mjp8MzoyMDE2LTAxLTAzVDAwOjAwOjAwWnw0Onw1Om9haV9kYw==">http://dspace.lboro.ac.uk/dspace-oai/request</request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>oai:dspace.lboro.ac.uk:2134/18261</identifier>
+                <datestamp>2016-01-23T00:05:42Z</datestamp>
+                <setSpec>com_2134_89</setSpec>
+                <setSpec>com_2134_80</setSpec>
+                <setSpec>col_2134_3149</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The SEFI Maths Working Group: current offerings and future tasks</dc:title>
+<dc:creator>Alpers, Burkhard A.</dc:creator>
+<dc:creator>Demlova, Marie</dc:creator>
+<dc:creator>Gustafsson, Tommy</dc:creator>
+<dc:creator>Lawson, Duncan</dc:creator>
+<dc:creator>Olsson-Lehtonen, Brita</dc:creator>
+<dc:creator>Robinson, Carol</dc:creator>
+<dc:creator>Robinson, Paul</dc:creator>
+<dc:creator>Velichova, Daniela</dc:creator>
+<dc:description>This is a conference paper.</dc:description>
+<dc:description>In this discussion paper we firstly summarise the current offering of the SEFI Mathematics&#13;
+Working Group with regard to orientation for those who are interested in the mathematical&#13;
+education of engineers. Based on this summary we identify directions for further work. Finally,&#13;
+we present some ideas of how progress might be made in these directions.</dc:description>
+<dc:date>2015-07-14T11:48:07Z</dc:date>
+<dc:date>2015-07-14T11:48:07Z</dc:date>
+<dc:date>2014</dc:date>
+<dc:type>Conference Contribution</dc:type>
+<dc:identifier>ALPERS, B.A. ... et al, 2014. The SEFI Maths Working Group: current offerings and future tasks. IN: Alpers, B. ... et al (eds). Proceedings, The 17th SEFI Maths Working Group Seminar, Dublin, Ireland, 23rd-25th June</dc:identifier>
+<dc:identifier>9782873520113</dc:identifier>
+<dc:identifier>https://dspace.lboro.ac.uk/2134/18261</dc:identifier>
+<dc:language>en</dc:language>
+<dc:relation>http://sefi.htw-aalen.de/Seminars/Dublin2014/17th%20SEFIMWG%20Seminar/Monday%20Session%201/PaperDublinSteeringCommittee_final_April_29.pdf</dc:relation>
+<dc:rights>This work is made available according to the conditions of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) licence. Full details of this licence are available at: https://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+<dc:publisher>Engineers Ireland / Institute of Mechanical Engineers</dc:publisher>
+<dc:source>the 17th SEFI Maths Working Group Seminar</dc:source>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <resumptionToken completeListSize="7" cursor="1"></resumptionToken>
+    </ListRecords>
+</OAI-PMH>

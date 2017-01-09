@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2016-02-04T16:36:51Z</responseDate>
+    <request verb="ListSets">http://dspace.lboro.ac.uk/dspace-oai/request</request>
+    <ListSets>
+        <set>
+            <setSpec>com_2134_65</setSpec>
+            <setName>Aeronautical, Automotive, Chemical and Materials Engineering</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_66</setSpec>
+            <setName>Aeronautical and Automotive Engineering</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_67</setSpec>
+            <setName>Chemical Engineering</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_68</setSpec>
+            <setName>Civil and Building Engineering</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_69</setSpec>
+            <setName>Electronic, Electrical and Systems Engineering</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_71</setSpec>
+            <setName>Mechanical and Manufacturing Engineering</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_80</setSpec>
+            <setName>Science</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_81</setSpec>
+            <setName>Chemistry</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_83</setSpec>
+            <setName>Computer Science</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_87</setSpec>
+            <setName>Information Science</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_89</setSpec>
+            <setName>Mathematical Sciences</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_92</setSpec>
+            <setName>Physics</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_94</setSpec>
+            <setName>Social, Political and Geographical Sciences</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_95</setSpec>
+            <setName>Business School</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_97</setSpec>
+            <setName>Design</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_99</setSpec>
+            <setName>Economics</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_102</setSpec>
+            <setName>English and Drama</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_103</setSpec>
+            <setName>Politics, History and International Relations</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_104</setSpec>
+            <setName>Geography</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_105</setSpec>
+            <setName>Sport, Exercise and Health Sciences</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_106</setSpec>
+            <setName>Arts</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_108</setSpec>
+            <setName>Social Sciences</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_111</setSpec>
+            <setName>University Research Centres</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_127</setSpec>
+            <setName>Centre for Child and Family Research</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_129</setSpec>
+            <setName>Centre for Hazard and Risk Management (CHaRM)</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_130</setSpec>
+            <setName>Centre for Innovative and Collaborative Engineering (CICE) </setName>
+        </set>
+        <set>
+            <setSpec>com_2134_132</setSpec>
+            <setName>Centre for Non-Linear Mathematics &amp; Applications</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_134</setSpec>
+            <setName>Centre for Renewable Energy Systems Technology (CREST)</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_135</setSpec>
+            <setName>Centre for Research in Social Policy (CRSP)</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_144</setSpec>
+            <setName>Innovative Manufacturing and Construction Research Centre</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_147</setSpec>
+            <setName>Loughborough Sleep Research Centre</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_148</setSpec>
+            <setName>Professional and Management Development Centre</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_150</setSpec>
+            <setName>Midlands Centre for Criminology and Criminal Justice </setName>
+        </set>
+        <set>
+            <setSpec>com_2134_154</setSpec>
+            <setName>Systems Engineering Innovation Centre (SEIC)</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_158</setSpec>
+            <setName>Water, Engineering and Development Centre (WEDC)</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_165</setSpec>
+            <setName>University Academic and Administrative Support</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_166</setSpec>
+            <setName>University Library</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_510</setSpec>
+            <setName>Materials</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_1758</setSpec>
+            <setName>Professional Development</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_2156</setSpec>
+            <setName>engCETL</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_3066</setSpec>
+            <setName>University Research Groups</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_3073</setSpec>
+            <setName>Design Education Research Group</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_3075</setSpec>
+            <setName>Control Systems Group</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_3088</setSpec>
+            <setName>IT Services</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_8512</setSpec>
+            <setName>Higher Education Academy Engineering Subject Centre</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_8534</setSpec>
+            <setName>Mathematics Education Centre</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_8699</setSpec>
+            <setName>The Arts, English and Drama</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_8700</setSpec>
+            <setName>Business and Economics</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_8803</setSpec>
+            <setName>Research Office</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_9373</setSpec>
+            <setName>Centre for Engineering and Design Education (CEDE)</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_9781</setSpec>
+            <setName>Design Practice Research Group</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_13999</setSpec>
+            <setName>Centre for Information Management (CIM)</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_19016</setSpec>
+            <setName>Loughborough University London</setName>
+        </set>
+        <set>
+            <setSpec>com_2134_19492</setSpec>
+            <setName>Sports Technology Research Group</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_73</setSpec>
+            <setName>Published Articles (Aeronautical and Automotive Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_74</setSpec>
+            <setName>Published Articles (Chemical Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_75</setSpec>
+            <setName>Published Articles (Civil and Building Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_76</setSpec>
+            <setName>Published Articles (Electronic, Electrical and Systems Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_78</setSpec>
+            <setName>Published Articles (Mechanical and Manufacturing Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_82</setSpec>
+            <setName>Published Articles (Chemistry)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_84</setSpec>
+            <setName>Published Articles (Computer Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_88</setSpec>
+            <setName>Published Articles (Information Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_90</setSpec>
+            <setName>Published Articles (Maths)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_91</setSpec>
+            <setName>Pre-prints (Maths)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_93</setSpec>
+            <setName>Published Articles (Physics)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_96</setSpec>
+            <setName>Published Articles (Business School)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_98</setSpec>
+            <setName>Published Articles (Design School)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_100</setSpec>
+            <setName>Published Articles (Economics)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_101</setSpec>
+            <setName>Working Papers (Economics)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_107</setSpec>
+            <setName>Moving Images (Arts)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_159</setSpec>
+            <setName>Published Articles (English and Drama)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_161</setSpec>
+            <setName>Published Articles (Geography)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_162</setSpec>
+            <setName>Published Articles (PHIR)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_163</setSpec>
+            <setName>Published Articles (Social Sciences)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_164</setSpec>
+            <setName>Published Articles (Sport, Exercise and Health Sciences)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_167</setSpec>
+            <setName>Published Articles (Library)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_168</setSpec>
+            <setName>Annual Reports (Library)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_255</setSpec>
+            <setName>Published Articles (Sleep Research)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_340</setSpec>
+            <setName>Book Chapters (English and Drama)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_342</setSpec>
+            <setName>Research Reports (Information Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_407</setSpec>
+            <setName>Conference Papers (Information Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_470</setSpec>
+            <setName>Pre-Prints (Information Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_481</setSpec>
+            <setName>Conference Papers and Presentations (Computer Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_570</setSpec>
+            <setName>MSc and MA Dissertations (Information Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_606</setSpec>
+            <setName>Official Reports (Social Sciences)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_617</setSpec>
+            <setName>Book Chapters (Social Sciences)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_658</setSpec>
+            <setName>Book Chapters (Mechanical and Manufacturing Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_696</setSpec>
+            <setName>Conference Papers and Contributions (Mechanical and Manufacturing Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_712</setSpec>
+            <setName>Working Papers (Mechanical and Manufacturing Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_778</setSpec>
+            <setName>Published Articles (Criminology)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_786</setSpec>
+            <setName>Conference Papers and Presentations (Social Sciences)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_791</setSpec>
+            <setName>Published Theses (CICE)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_806</setSpec>
+            <setName>Published Articles (Materials)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_851</setSpec>
+            <setName>Official Reports (Criminology)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_885</setSpec>
+            <setName>Conference Papers (Economics)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_927</setSpec>
+            <setName>Book Chapters (Criminology)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_951</setSpec>
+            <setName>Books (Design School)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_952</setSpec>
+            <setName>Conference Papers and Contributions (Design School)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_954</setSpec>
+            <setName>IDATER Archive</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_1121</setSpec>
+            <setName>Pre-prints (Library)</setName>
+        </set>
+        <resumptionToken completeListSize="391" cursor="0">MToxMDB8Mjp8Mzp8NDp8NTo=</resumptionToken>
+    </ListSets>
+</OAI-PMH>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2016-02-04T16:38:39Z</responseDate>
+    <request verb="ListSets" resumptionToken="MTozMDB8Mjp8Mzp8NDp8NTo=">http://dspace.lboro.ac.uk/dspace-oai/request</request>
+    <ListSets>
+        <set>
+            <setSpec>col_2134_10242</setSpec>
+            <setName>Closed Access MPhil Theses (Economics)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10321</setSpec>
+            <setName>Closed Access PhD theses (Sport, Exercise and Health Sciences)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10334</setSpec>
+            <setName>MSc Dissertations (Electronic, Electrical and Systems Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10344</setSpec>
+            <setName>MSc Dissertations (Aeronautical and Automotive Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10365</setSpec>
+            <setName>MSc Dissertations (Maths)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10380</setSpec>
+            <setName>MPhil Theses (Mechanical and Manufacturing Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10385</setSpec>
+            <setName>MPhil Theses (Materials)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10391</setSpec>
+            <setName>MPhil Theses (Maths)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10408</setSpec>
+            <setName>Closed Access MPhil Theses (English and Drama)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10409</setSpec>
+            <setName>MSc Dissertations (Computer Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10416</setSpec>
+            <setName>MPhil Theses (Chemical Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10422</setSpec>
+            <setName>Closed Access PhD theses (Social Sciences)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10435</setSpec>
+            <setName>Closed Access DSc Theses (Chemistry)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10444</setSpec>
+            <setName>MPhil theses (Physics)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10462</setSpec>
+            <setName>MPhil Theses (Chemistry)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10496</setSpec>
+            <setName>MPhil Theses (Economics)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10501</setSpec>
+            <setName>Closed Access MPhil Theses (Geography)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10539</setSpec>
+            <setName>MPhil Theses (Aeronautical and Automotive Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10709</setSpec>
+            <setName>MSc and MA Dissertations (Economics)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10714</setSpec>
+            <setName>Exhibitions (Arts)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10726</setSpec>
+            <setName>Graphs (Mathematics Education Centre)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10814</setSpec>
+            <setName>MPhil Theses (Civil and Building Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10878</setSpec>
+            <setName>MPhil Theses (Information Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10974</setSpec>
+            <setName>Closed Access MSc and MA Dissertations (Information Science )</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_10994</setSpec>
+            <setName>MPhil Theses (Electronic, Electrical and Systems Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_11093</setSpec>
+            <setName>MPhil Theses (Geography)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_11097</setSpec>
+            <setName>MPhil Theses (Computer Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_11222</setSpec>
+            <setName>MPhil Theses (Social Sciences)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_11274</setSpec>
+            <setName>Closed Access DLitt Theses (Geography)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_11497</setSpec>
+            <setName>Book Chapters (Information Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_11562</setSpec>
+            <setName>Official Reports (Mechanical and Manufacturing Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_11598</setSpec>
+            <setName>Closed Access MPhil Theses (Electronic, Electrical and Systems Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_11726</setSpec>
+            <setName>Closed Access DSc Theses (Civil and Building Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_12056</setSpec>
+            <setName>MSc Dissertations (Physics)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_12062</setSpec>
+            <setName>Closed Access DSc Theses (Mechanical and Manufacturing Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_12207</setSpec>
+            <setName>Data Sets and Software (Civil and Building Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_12273</setSpec>
+            <setName>Patents (Design School)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_12787</setSpec>
+            <setName>Book Chapters (Physics)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_12968</setSpec>
+            <setName>Official Reports (Information Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_13599</setSpec>
+            <setName>Design Practice Research Case Studies (Design School)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_13677</setSpec>
+            <setName>Other (English and Drama)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_13694</setSpec>
+            <setName>Official Reports (Centre for Engineering and Design Education)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_13718</setSpec>
+            <setName>Patents (Materials)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_13811</setSpec>
+            <setName>Research Reports (IT Services)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_13837</setSpec>
+            <setName>Pre-Prints (Aeronautical and Automotive Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_13889</setSpec>
+            <setName>Data Sets and Software (Aeronautical and Automotive Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_13890</setSpec>
+            <setName>Closed Access DSc Theses (Information Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_14000</setSpec>
+            <setName>PhD Theses (CIM)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_14168</setSpec>
+            <setName>Book Chapters (Maths)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_14230</setSpec>
+            <setName>Research Films (Aeronautical and Automotive Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_14322</setSpec>
+            <setName>MSc Dissertations (Geography)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_14394</setSpec>
+            <setName>MPhil Theses (PHIR)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_14437</setSpec>
+            <setName>Published Articles (CIM)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_14526</setSpec>
+            <setName>Closed Access DSc Theses (Chemical Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_14534</setSpec>
+            <setName>Closed Access MPhil Theses (PHIR)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_14537</setSpec>
+            <setName>Other (PHIR)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_15121</setSpec>
+            <setName>Closed Access MPhil Theses (Social Sciences)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_15174</setSpec>
+            <setName>MPhil Theses (English and Drama)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_15191</setSpec>
+            <setName>Published Theses (Chemistry)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_15527</setSpec>
+            <setName>Published Articles (IT Services)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_15642</setSpec>
+            <setName>Other (Social Sciences)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_15832</setSpec>
+            <setName>Other (Arts)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_16088</setSpec>
+            <setName>Books (Geography)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_16212</setSpec>
+            <setName>Official Reports (Research Office)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_16239</setSpec>
+            <setName>Other (Geography)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_16461</setSpec>
+            <setName>Published Theses (Aeronautical and Automotive Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_16748</setSpec>
+            <setName>Conference Papers (CIM)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_16767</setSpec>
+            <setName>Closed Access (CIM)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_16769</setSpec>
+            <setName>Official Reports (Economics)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_17062</setSpec>
+            <setName>Other (Computer Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_17290</setSpec>
+            <setName>Other (Business School)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_17646</setSpec>
+            <setName>Official Reports (English and Drama)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_17647</setSpec>
+            <setName>Official Reports (CIM)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_18138</setSpec>
+            <setName>Working Papers (CRSP)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_18189</setSpec>
+            <setName>Closed Access (Centre for Child and Family Research)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_18356</setSpec>
+            <setName>MSc Dissertations (Social Sciences)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_18360</setSpec>
+            <setName>Closed Access DSc Theses (Computer Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_18379</setSpec>
+            <setName>Published Articles (Centre for Child and Family Research)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_18542</setSpec>
+            <setName>Official Reports (Mathematics Education Centre)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_18826</setSpec>
+            <setName>PhD Theses (WEDC)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_19017</setSpec>
+            <setName>Published Articles (Loughborough University London)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_19301</setSpec>
+            <setName>Technical Reports (Computer Science)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_19304</setSpec>
+            <setName>Conference Papers (Loughborough University London)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_19416</setSpec>
+            <setName>Closed Access (Loughborough University London)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_19422</setSpec>
+            <setName>Published Theses (CREST)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_19493</setSpec>
+            <setName>Published Articles (Sports Technology Research Group)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_19646</setSpec>
+            <setName>DSc Theses (Mechanical and Manufacturing Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_19879</setSpec>
+            <setName>Books (Arts)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_20093</setSpec>
+            <setName>Closed Access PhD Theses (CIM)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_20207</setSpec>
+            <setName>Patents (Electronic, Electrical and Systems Engineering)</setName>
+        </set>
+        <set>
+            <setSpec>col_2134_20213</setSpec>
+            <setName>Book Chapters (Loughborough University London)</setName>
+        </set>
+        <resumptionToken completeListSize="391" cursor="3"></resumptionToken>
+    </ListSets>
+</OAI-PMH>
